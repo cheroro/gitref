@@ -7,3 +7,4 @@ GitクライアントはSourceTreeを使用
 gitref2-フェッチテスト
 gitflow採用
 ブランチ:master-gitflow採用をマージ
+既存機能開発継続
