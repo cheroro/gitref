@@ -5,3 +5,4 @@
 GitクライアントはSourceTreeを使用
 初回コミット＆プッシュ
 gitref2-フェッチテスト
+gitflow採用
