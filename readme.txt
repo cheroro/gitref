@@ -7,3 +7,5 @@ GitクライアントはSourceTreeを使用
 gitref2-フェッチテスト
 gitflow採用
 ブランチ:master-gitflow採用をマージ
+ブランチ:computeMiss追加
+ブランチ:computeMiss解消
