@@ -14,3 +14,4 @@ gitflow採用
 ブランチ:computeMiss追加
 ブランチ:computeMiss解消
 ブランチ:computeMiss解消???
+bugfix
